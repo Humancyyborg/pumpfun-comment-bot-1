@@ -8,7 +8,7 @@ This tool offers the best, fastest, and most efficient comment/reply bot for Pum
 
 Support in running the tool is included in the price.
 
-![alt text](https://github.com/nubog-cmd/pumpfun-comment-bot/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/nubog-cmd/pumpfun-comment-bot/blob/main/bot-img.png?raw=true)
 
 **Other tools**
 - [Volume Maker](https://github.com/nubog-cmd/Raydium-Volume-Bot)

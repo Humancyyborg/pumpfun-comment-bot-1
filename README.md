@@ -1,4 +1,4 @@
-# Pump.Fun Comment Bot
+# 💬 Pump.Fun Comment Bot
 
 Welcome to the **Pump.Fun Comment Bot** - the ultimate solution for shilling and bull commenting your Pump.fun launch. 
 

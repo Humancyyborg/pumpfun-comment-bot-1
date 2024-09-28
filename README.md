@@ -4,7 +4,13 @@ Welcome to the **Pump.Fun Comment Bot** - the ultimate solution for shilling and
 
 This tool offers the best, fastest, and most efficient comment/reply bot for Pump.fun.  The bot is extremely complex on the backend but super simple for the user.
 
-**TELEGRAM** for contact & **POC** (Proof of Concept) & **VOUCHES**: [@testicklez](https://t.me/testicklez)
+**Support Cortex and Get Exclusive Access to DEX Bots!**
+
+We're building advanced DEX bots for the community to support our mission at CoreSwap in redefining  Decentralized  Exchange participating in our presale, you'll gain early access to these bots and receive full setup support. 
+
+For more details, join our Discord at [Coreswap Community](https://discord.gg/AWDgU4WCwV)
+
+
 
 Support in running the tool is included in the price.
 
